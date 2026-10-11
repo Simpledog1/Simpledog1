@@ -137,13 +137,3 @@
   </picture>
 
 </div>
-
----
-
-<div align="center">
-
-  **⚔️ Never Give Up.**
-
-  <sub>Always learning. Always improving.</sub>
-
-</div>
