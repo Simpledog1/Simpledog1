@@ -8,8 +8,6 @@
 
   *Learning, building, and improving one project at a time.*
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Simpledog1.Simpledog1" alt="Profile views" />
-
 </div>
 
 ---
