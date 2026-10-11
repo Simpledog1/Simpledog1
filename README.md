@@ -137,4 +137,3 @@
   </picture>
 
 </div>
-actually just remove the white covering the mystats box so they all match
