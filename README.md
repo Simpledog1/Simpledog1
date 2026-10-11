@@ -1,4 +1,5 @@
- <div align="center">
+```markdown
+<div align="center">
 
   <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving developer animation" />
 
@@ -114,13 +115,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Simpledog1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simpledog1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=282a36&hide_border=true" height="165" alt="GitHub stats" />
 
-  <img src="https://raw.githubusercontent.com/Simpledog1/Simpledog1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="165" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/Simpledog1/Simpledog1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&bg_color=282a36&hide_border=true&order=2" height="165" alt="Most used languages" />
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=Simpledog1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Simpledog1&locale=en&mode=daily&theme=dracula&background=282a36&hide_border=true&border_radius=5&order=3" height="200" alt="GitHub streak" />
 
 </div>
 
@@ -137,3 +138,4 @@
   </picture>
 
 </div>
+```
