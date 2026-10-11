@@ -98,9 +98,7 @@
 
 ### 🔥 My Stats
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Simpledog1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Simpledog1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats graph" />
 
 ###
 
