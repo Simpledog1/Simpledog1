@@ -60,8 +60,14 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" alt="PHP"/><br/>PHP
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" alt="NumPy"/><br/>NumPy
+    </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" alt="Pandas"/><br/>Pandas
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React"/><br/>React
     </td>
@@ -93,6 +99,9 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" alt="Figma"/><br/>Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="35" alt="Godot"/><br/>Godot
     </td>
   </tr>
 </table>
