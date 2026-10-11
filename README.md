@@ -96,25 +96,34 @@
 
 </div>
 
+---
+
 ### 🔥 My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Simpledog1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats graph" />
-
-###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Simpledog1/Simpledog1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Simpledog1/Simpledog1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Simpledog1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="GitHub stats" />
+
+  <img src="https://raw.githubusercontent.com/Simpledog1/Simpledog1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="165" alt="Most used languages" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=Simpledog1&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="GitHub streak" />
+
 </div>
+
+---
 
 ### 👾 My Contributions
 
 <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simpledog1/Simpledog1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simpledog1/Simpledog1/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Simpledog1/Simpledog1/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
   </picture>
+
 </div>
 
 ---
