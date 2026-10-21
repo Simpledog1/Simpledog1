@@ -2,15 +2,15 @@
   <img src="readme-banner.svg" width="100%" alt="Pixel-art intro: French and Russian infantry trade musket volleys before St. Petersburg until the smoke fills the screen and reveals: Turning ideas into code. Explore my work below." />
 </p>
 
-<h3 align="center">💫 About Me</h3>
+<h3>💫 About Me</h3>
 
-<p align="center">
+<p>
   🎓 Computer Science student at Holy Angel University<br>🤖 Currently learning Python, AI, and software development<br>🛠️ Building practical projects and strengthening my programming fundamentals<br>♟️ Outside coding, I enjoy chess, gaming, and fitness
 </p>
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3>💻 Tech Stack</h3>
 
-<p align="center">
+<p>
   <b>Languages</b><br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-<p align="center">
+<p>
   <b>Frameworks, Data & AI</b><br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-<p align="center">
+<p>
   <b>Databases & Cloud</b><br>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
 
-<p align="center">
+<p>
   <b>Tools & Design</b><br>
   <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -54,9 +54,9 @@
   <img src="https://img.shields.io/badge/godot-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
 </p>
 
-<h3 align="center">👾 My Contributions</h3>
+<h3>👾 My Contributions</h3>
 
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Simpledog1/Simpledog1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Simpledog1/Simpledog1/pacman-output/pacman-contribution-graph.svg?game=pacman">
