@@ -4,8 +4,6 @@
 
 <div align="center">
 
-  <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving developer animation" />
-
   # Hey there! 👋
 
   **Computer Science Student | Aspiring AI Engineer**
