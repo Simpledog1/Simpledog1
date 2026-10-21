@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="readme-banner.svg" width="100%" alt="Pixel-art intro: French and Russian infantry trade musket volleys before St. Petersburg until the smoke fills the screen and reveals: Turning ideas into code. Explore my work below." />
+</p>
+
 <div align="center">
 
   <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving developer animation" />
